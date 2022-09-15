@@ -11989,6 +11989,18 @@ a {
     min-width: 290px;
   }
 }
+#custom-html-4k {
+  /* Type valid CSS here */
+}
+#custom-html-4k div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-4k p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-tcR0sBszQF {
   z-index: 1000;
   width: 100%;
